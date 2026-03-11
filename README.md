@@ -1,6 +1,6 @@
-## Consumer Financial Complaints Analysis
+# Consumer Financial Complaints Analysis
 
-# Project Overview
+### Project Overview
 
 This project analyzes the Consumer Financial Complaints dataset published by the Consumer Financial Protection Bureau (CFPB) to identify patterns in consumer dissatisfaction with financial products and services.
 
@@ -8,7 +8,7 @@ The analysis focuses on identifying major complaint drivers, high-risk financial
 
 This project was completed as part of the Microsoft Elevate Internship – Power BI Track.
 
-# Project Objectives
+### Project Objectives
 
 The project aims to answer the following key questions:
 
@@ -22,9 +22,9 @@ How effective are company responses in resolving complaints?
 
 Which complaints result in consumer disputes?
 
-# Dataset
+### Dataset
 
-# Source:
+### Source:
 Consumer Financial Protection Bureau (CFPB)
 
 🔗 https://www.consumerfinance.gov/data-research/consumer-complaints/
