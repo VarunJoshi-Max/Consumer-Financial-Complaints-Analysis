@@ -1,5 +1,6 @@
-Consumer Financial Complaints Analysis
-Project Overview
+## Consumer Financial Complaints Analysis
+
+# Project Overview
 
 This project analyzes the Consumer Financial Complaints dataset published by the Consumer Financial Protection Bureau (CFPB) to identify patterns in consumer dissatisfaction with financial products and services.
 
@@ -7,7 +8,7 @@ The analysis focuses on identifying major complaint drivers, high-risk financial
 
 This project was completed as part of the Microsoft Elevate Internship – Power BI Track.
 
-🎯 Project Objectives
+# Project Objectives
 
 The project aims to answer the following key questions:
 
@@ -21,14 +22,14 @@ How effective are company responses in resolving complaints?
 
 Which complaints result in consumer disputes?
 
-📂 Dataset
+# Dataset
 
-Source:
+# Source:
 Consumer Financial Protection Bureau (CFPB)
 
 🔗 https://www.consumerfinance.gov/data-research/consumer-complaints/
 
-The dataset contains consumer complaints related to financial products including:
+# The dataset contains consumer complaints related to financial products including:
 
 Credit cards
 
@@ -42,17 +43,17 @@ Checking and savings accounts
 
 For this analysis, complaints from 2020–2025 were used.
 
-🛠 Tools & Technologies
-Tool	Purpose
-PostgreSQL	Data cleaning and preparation
-Power BI Desktop	Dashboard creation and visualization
-Power BI Service	Dashboard publishing and sharing
-Microsoft Excel	Initial dataset inspection
-⚙️ Data Preparation
+# Tools & Technologies
+Tool	                 Purpose
+PostgreSQL	           Data cleaning and preparation
+Power BI Desktop	     Dashboard creation and visualization
+Power BI Service	     Dashboard publishing and sharing
+
+# Data Preparation
 
 The dataset was processed using PostgreSQL before visualization.
 
-Key preparation steps
+# Key preparation steps
 
 Imported the CFPB dataset into PostgreSQL
 
@@ -68,7 +69,7 @@ Created analytical views for reporting
 
 These steps ensured the dataset was clean, structured, and ready for analysis.
 
-📈 Power BI Dashboard
+# Power BI Dashboard
 
 The Power BI report consists of three analytical dashboards.
 
@@ -112,7 +113,7 @@ Impact of company response types on disputes
 
 The analysis shows that complaints resolved with monetary relief have significantly lower dispute rates.
 
-🔎 Key Insights
+# Key Insights
 
 Credit reporting and credit cards generate the highest complaint volumes.
 
@@ -124,7 +125,7 @@ Approximately 44% of complaints remain disputed.
 
 Monetary relief responses have the lowest dispute rates, indicating more effective complaint resolution.
 
-💡 Recommendations
+# Recommendations
 
 Based on the analysis:
 
@@ -136,4 +137,4 @@ Strengthen oversight of debt collection practices
 
 Encourage companies to prioritize effective resolutions over explanatory responses
 
-🌐 Power BI Dashboard
+# Power BI Dashboard
