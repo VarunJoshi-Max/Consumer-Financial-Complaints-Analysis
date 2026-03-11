@@ -45,7 +45,7 @@ For this analysis, complaints from 2020–2025 were used.
 
 ### Tools & Technologies
 
-#### Tool	             #### Purpose
+*Tool*	               *Purpose*
 PostgreSQL	           Data cleaning and preparation
 Power BI Desktop	     Dashboard creation and visualization
 Power BI Service	     Dashboard publishing and sharing
