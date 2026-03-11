@@ -156,6 +156,11 @@ Strengthen oversight of debt collection practices
 
 Encourage companies to prioritize effective resolutions over explanatory responses
 
+## Power BI Service Dashboard Link:
+https://app.powerbi.com/links/f-TQpYn-tw?ctid=5cf28a99-8d4b-415c-a59e-cd6a57d65be6&pbi_source=linkShare
+<img width="1576" height="127" alt="image" src="https://github.com/user-attachments/assets/cc0f1a11-c1f7-4952-b507-0d4e5fb89dde" />
+
+
 ### Author
 
 Varun Arun Joshi
