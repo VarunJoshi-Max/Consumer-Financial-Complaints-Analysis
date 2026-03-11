@@ -24,12 +24,12 @@ Which complaints result in consumer disputes?
 
 ### Dataset
 
-### Source:
+Source:
 Consumer Financial Protection Bureau (CFPB)
 
 🔗 https://www.consumerfinance.gov/data-research/consumer-complaints/
 
-# The dataset contains consumer complaints related to financial products including:
+### The dataset contains consumer complaints related to financial products including:
 
 Credit cards
 
@@ -43,17 +43,18 @@ Checking and savings accounts
 
 For this analysis, complaints from 2020–2025 were used.
 
-# Tools & Technologies
-Tool	                 Purpose
+### Tools & Technologies
+
+#### Tool	             #### Purpose
 PostgreSQL	           Data cleaning and preparation
 Power BI Desktop	     Dashboard creation and visualization
 Power BI Service	     Dashboard publishing and sharing
 
-# Data Preparation
+### Data Preparation
 
 The dataset was processed using PostgreSQL before visualization.
 
-# Key preparation steps
+### Key preparation steps
 
 Imported the CFPB dataset into PostgreSQL
 
@@ -69,7 +70,7 @@ Created analytical views for reporting
 
 These steps ensured the dataset was clean, structured, and ready for analysis.
 
-# Power BI Dashboard
+### Power BI Dashboard
 
 The Power BI report consists of three analytical dashboards.
 
@@ -87,6 +88,11 @@ Financial products generating the most complaints
 
 Companies receiving the highest complaint volumes
 
+
+<img width="1280" height="717" alt="Complaint Overview Dashboard" src="https://github.com/user-attachments/assets/9e928bd9-5b4a-46f0-b65b-43c0b66ecbac" />
+
+
+
 2️⃣ Complaint Issue Analysis
 
 Analyzes the types of problems consumers report.
@@ -98,6 +104,11 @@ Most frequently reported consumer issues
 Complaint distribution across products and sub-products
 
 Relationship between products and complaint issues
+
+
+<img width="1287" height="717" alt="Complaint Issue Analysis Dashboard" src="https://github.com/user-attachments/assets/1af7a6ef-3299-42aa-8bed-40e1031414bb" />
+
+
 
 3️⃣ Dispute & Resolution Analysis
 
@@ -113,7 +124,11 @@ Impact of company response types on disputes
 
 The analysis shows that complaints resolved with monetary relief have significantly lower dispute rates.
 
-# Key Insights
+
+<img width="1185" height="732" alt="Dispute   Resolution Analysis Dashboard" src="https://github.com/user-attachments/assets/99d76a70-4f4e-48af-9e09-5a45c727922d" />
+
+
+### Key Insights
 
 Credit reporting and credit cards generate the highest complaint volumes.
 
@@ -125,7 +140,7 @@ Approximately 44% of complaints remain disputed.
 
 Monetary relief responses have the lowest dispute rates, indicating more effective complaint resolution.
 
-# Recommendations
+### Recommendations
 
 Based on the analysis:
 
@@ -137,4 +152,11 @@ Strengthen oversight of debt collection practices
 
 Encourage companies to prioritize effective resolutions over explanatory responses
 
-# Power BI Dashboard
+### Author
+
+Varun Arun Joshi
+Microsoft Elevate Internship – Power BI
+
+### License
+
+This project is for educational and internship purposes using publicly available CFPB consumer complaint data.
