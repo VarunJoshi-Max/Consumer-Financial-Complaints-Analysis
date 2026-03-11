@@ -94,6 +94,7 @@ Companies receiving the highest complaint volumes
 
 
 
+
 2️⃣ Complaint Issue Analysis
 
 Analyzes the types of problems consumers report.
@@ -108,6 +109,7 @@ Relationship between products and complaint issues
 
 
 <img width="1287" height="717" alt="Complaint Issue Analysis Dashboard" src="https://github.com/user-attachments/assets/1af7a6ef-3299-42aa-8bed-40e1031414bb" />
+
 
 
 
@@ -127,6 +129,7 @@ The analysis shows that complaints resolved with monetary relief have significan
 
 
 <img width="1185" height="732" alt="Dispute   Resolution Analysis Dashboard" src="https://github.com/user-attachments/assets/99d76a70-4f4e-48af-9e09-5a45c727922d" />
+
 
 
 ### Key Insights
@@ -156,6 +159,7 @@ Encourage companies to prioritize effective resolutions over explanatory respons
 ### Author
 
 Varun Arun Joshi
+
 Microsoft Elevate Internship – Power BI
 
 ### License
